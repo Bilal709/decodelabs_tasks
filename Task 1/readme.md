@@ -40,5 +40,3 @@ This is the Week 1 submission for the Frontend Development Internship task. The 
 - ✅ Sticky header
 - ✅ Footer fixed at bottom
 - ✅ Responsive design for desktop, tablet, and mobile
-
-## Project Structure
