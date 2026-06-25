@@ -19,11 +19,11 @@ DecodeLabs is a technology company dedicated to nurturing young talent and build
 
 | Category | Information |
 |----------|-------------|
-| **Name** | Bilal |
+| **Name** | Muhammad Bilal |
 | **Batch** | 2026 |
 | **Program** | Frontend Development Internship |
 | **Organization** | DecodeLabs |
-| **Location** | Greater Lucknow, India |
+| **Location** |Islamabad , Pakistan |
 
 ---
 
